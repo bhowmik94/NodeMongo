@@ -1,6 +1,10 @@
 # Node.js + Express + MongoDB + JWT Auth
 
-A simple backend with user authentication using **JWT**, connected to **MongoDB Atlas**. Includes registration, login, and a protected route.
+[![Node.js CI](https://github.com/bhowmik94/NodeMongo/actions/workflows/ci.yml/badge.svg)](https://github.com/bhowmik94/NodeMongo/actions/workflows/ci.yml)
+
+A simple backend for managing posts/notes by individual users. Contains user authentication using **JWT**, connected to **MongoDB Atlas**. Includes registration, login, and a protected route. 
+
+**Big plans** for the future is to add multi-role acess control with a super-admin, who can view and manage the existing admins/users.
 
 ---
 
