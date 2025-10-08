@@ -80,7 +80,6 @@ that automatically:
 
 - Verifies code quality
 
-You can view build results under your repo’s Actions tab.
 ---
 
 ## 💡 Contributing
