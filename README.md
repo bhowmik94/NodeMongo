@@ -34,25 +34,19 @@ cd NodeMongo
 npm install
 ```
 
----
-
 ### 2. Environment Variables
 Create a .env file in the root directory with the following keys:
 
 ```bash
-MONGO_URI=your-mongodb-uri
-JWT_SECRET=your-jwt-secret
-PORT=5000
+MONGO_URI="your-mongo-connection-string-here"
 ```
----
+
 ### 3. Example .env for Forked Users
 ```bash
 MONGO_URI=mongodb+srv://username:password@clustername.mongodb.net/testdb
 JWT_SECRET=changeme123
 PORT=5000
 ```
-
----
 
 ### 4. Running the Server
 
